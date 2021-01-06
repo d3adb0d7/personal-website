@@ -1,0 +1,164 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    
+    padding: 0;
+    color: #19194d;
+}
+.container{
+    width: 80%;
+    height: auto;
+    margin: 0 auto;
+}
+
+section{
+    height: 450px;
+    width: 100%;
+    padding: 100px 0px;
+    background-color: white;
+}
+.menu{
+    width: 100%;
+    height: 100px;
+    padding: 30px;
+    text-align: right;
+}
+.items{
+    margin-right: 5%;
+}
+.items a{
+    text-decoration: none;
+    color: #19194d;
+    padding: 0;
+    background-image: none;
+    box-shadow: none;
+    margin-left: 25px;
+}
+h1{
+    font-size: 50px;
+    color: #363958;
+    margin: 0 px;
+    padding: 0 px;
+
+}
+.orange-highlight{
+    color: orange;
+}
+.link-button{
+    text-decoration: none;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 3px;
+    background-image: linear-gradient(to top, #ff8063, #f46060);
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 50px;
+    padding left: 2px;;
+
+}
+.half-width img{
+    width: 90%;
+    
+}
+h2{
+    color:#363958 ;
+    padding-left: 0px;
+}
+p{
+    color: gray;
+    padding-left: 0px;
+    
+}
+
+
+.projects{
+    margin: 0px;
+    width: 100%;
+    height: 500px;
+    background-color: rgba(230, 250, 255,0.4);
+}
+.projects h3{
+    text-align: center;
+}
+.project-list{
+    padding: 100px 0;
+    margin-left: 100px;
+}
+.project-list .box{
+    width: 250px;
+    height: 330px;
+    padding: 10px 20px;
+    background-color: white;
+    float: left;
+    margin-left: 4%;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.1);
+    
+}
+
+.project-list img{
+    width: 100%;
+}
+.contact-header{
+    width: 100%;
+    height: 180px;
+    
+}
+.contact-header .inquiry{
+    width: 60%;
+    height: 160px;
+    margin: auto;
+    padding: 20px;
+    background-image: url(./images/chatheader.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 40px;
+
+}
+.work-inquiy{
+    color: white;
+    font-weight:300 ;
+    margin-left: 5px;
+}
+.button{
+    text-decoration: none;
+    float:right;
+    color: white;
+    margin-top: -100px;
+    padding: 10px 20px;
+    border-radius: 3px;
+    background-image: linear-gradient(to top, #ff8063, #f46060);
+}
+.projects h2{
+    padding-left: 460px;
+}
+
+.social-info{
+    margin: 0px;
+    padding-left: 650px;
+
+}
+.social-info h3{
+    padding-left: 50px;
+}
+.social-info img{
+    padding-left: 40px;
+}
+.social-info h3{
+    padding-left: 50px;
+}
+.single-experience{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 80%;
+    background-color: white;
+}
+.clients-image {
+    border-image-repeat: none;
+
+}
+.box h4{
+    color: #f46060;
+    text-align: center;
+}
